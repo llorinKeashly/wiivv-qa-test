@@ -1,0 +1,9 @@
+{
+  "name": "wiivv_qa",
+  "version": "1.0.0",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
